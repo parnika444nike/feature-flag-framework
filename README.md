@@ -95,7 +95,7 @@ Only the following feature flag details can be updated -
 
 
 
-## 4. References
+## 5. References
 
  - [Youtube -Perform CRUD Operations using Spring Boot, Thymeleaf, MySQL Database and Spring Data JPA](https://youtu.be/MUhDe_yZ5WQ?si=qHjAo2QdOBrJGH4M)
  - [Setting up MySQL using XAMPP](https://youtu.be/co-xyHRdHRg?si=VEFvqWP0lbbzD22c)
