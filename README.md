@@ -24,8 +24,14 @@ The following are the various tech using which the UI was built:
 - **CSS**
 
 
+## 2. Setup 
 
-## 2. How it works
+``` 1. Download XAMPP.
+    2. Run both Apache and MySQL.
+    3. Open a browser and go to - http://localhost/phpmyadmin/index.php?route=/database/structure&db=DB_NAME
+    4. This will be the database for the project and the flags will be updated here as well.
+
+## 3. How it works
 
 The feature flag UI allows users to perform 3 main **functions** -
 
@@ -73,7 +79,7 @@ Only the following feature flag details can be updated -
 
 
 
-## 3. Terminology (in code)
+## 4. Terminology (in code)
 
 
 - **ffname** - Name of the feature flag. 
@@ -81,6 +87,7 @@ Only the following feature flag details can be updated -
 - **createdat** - Start date.
 - **enddate** - End date.
 - **description** - Description of the feature flag.
+- **db5** - Name of the MySQL database.
 
 
 
