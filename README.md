@@ -26,11 +26,12 @@ The following are the various tech using which the UI was built:
 
 ## 2. Setup 
 
-``` 1. Download XAMPP.
-    2. Run both Apache and MySQL.
-    3. Open a browser and go to - http://localhost/phpmyadmin/index.php?route=/database/structure&db=DB_NAME
-    4. This will be the database for the project and the flags will be updated here as well.
-```
+1. Download XAMPP.
+2. Run both Apache and MySQL.
+3. Open a browser and go to -
+```http://localhost/phpmyadmin/index.php?route=/database/structure&db=DB_NAME```
+4. This will be the database for the project and the flags will be updated here as well.
+
 
 
 ## 3. How it works
